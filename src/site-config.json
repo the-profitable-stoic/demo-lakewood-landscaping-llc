@@ -1,0 +1,549 @@
+{
+  "business": {
+    "name": "Lakewood Landscaping llc",
+    "phone": "+12088703182",
+    "category": "landscaping company",
+    "city": "Boise",
+    "state": "ID"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-trust-navy",
+      "categoryGroup": "roofing",
+      "name": "Trust Navy",
+      "recipeFile": "roofing/trust-navy.astro",
+      "colors": {
+        "primary": "#2C4563",
+        "primaryDark": "#1B2F45",
+        "primaryLight": "#D4E0ED",
+        "secondary": "#3D5A80",
+        "accent": "#3D6B5A",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#2C4563",
+        "surface": "#F4F6F8",
+        "text": "#1A1A2E",
+        "textLight": "#4A5568",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "700",
+        "bodyFont": "Source Sans 3",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "dark",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/trust-navy"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Lakewood Landscaping: Boise's Best",
+      "heroSubline": "Transforming outdoor spaces across the Treasure Valley. Quality landscaping services, built to last.",
+      "aboutTitle": "Crafting Landscapes, Building Relationships",
+      "aboutText": [
+        "Lakewood Landscaping started with a simple mission: to bring exceptional landscaping services to Boise and the surrounding communities. Founded by a Boise native with a passion for the outdoors, we've grown from a small operation to a trusted name in landscape design and maintenance.",
+        "Our approach is rooted in collaboration and communication. We believe in understanding our clients' visions and translating them into stunning, functional landscapes. From initial consultation to project completion, we prioritize transparency and quality craftsmanship.",
+        "We're committed to giving back to the community that has supported us. Lakewood Landscaping actively participates in local initiatives and strives to use sustainable practices in all our projects, helping to preserve the natural beauty of the Boise area for future generations."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "Deep understanding of Boise's climate, soil, and plant life ensures thriving landscapes."
+        },
+        {
+          "title": "Custom Designs",
+          "description": "Tailored landscape plans that reflect your unique style and enhance your property's value."
+        },
+        {
+          "title": "Reliable Service",
+          "description": "Punctual, professional, and committed to exceeding your expectations on every project."
+        },
+        {
+          "title": "Sustainable Practices",
+          "description": "Eco-friendly landscaping solutions that minimize environmental impact and promote long-term health."
+        }
+      ],
+      "ctaHeadline": "Ready to Transform Your Outdoor Space?",
+      "ctaSubline": "Contact Lakewood Landscaping today for a free consultation and estimate."
+    },
+    "services": [
+      {
+        "slug": "landscape-design",
+        "name": "Landscape Design",
+        "shortDescription": "Transform your outdoor vision into a stunning reality with our expert landscape design services.",
+        "description": "Lakewood Landscaping's design team specializes in creating custom landscape plans that perfectly complement your property and lifestyle. We consider every aspect of your outdoor space, from soil conditions and sun exposure to architectural style and personal preferences. We design for Boise's unique climate, selecting plants that will thrive through hot summers and cold winters. Whether you're looking for a complete landscape overhaul or targeted improvements, we'll work closely with you to develop a plan that exceeds your expectations. We use industry-leading software to create detailed 3D renderings, allowing you to visualize the final result before construction begins. Our designs focus on sustainable practices, incorporating water-wise irrigation, native plants, and eco-friendly materials to minimize environmental impact and maximize long-term beauty. Our landscape design services also include hardscape design, such as patios, walkways, and retaining walls, to create a cohesive and functional outdoor living space. Let Lakewood Landscaping turn your dream landscape into a reality.",
+        "process": [
+          "Initial Consultation: Discuss your vision, budget, and preferences.",
+          "Site Analysis: Assess soil conditions, sun exposure, and existing landscape features.",
+          "Design Development: Create a detailed landscape plan with 3D renderings.",
+          "Implementation: Manage all aspects of construction and installation.",
+          "Final Walkthrough: Ensure your complete satisfaction with the finished product."
+        ],
+        "benefits": [
+          "Increased property value",
+          "Enhanced curb appeal",
+          "Functional outdoor living space",
+          "Sustainable and eco-friendly design"
+        ],
+        "faq": [
+          {
+            "question": "How much does landscape design cost?",
+            "answer": "The cost of landscape design varies depending on the scope of the project. We offer free consultations to provide you with a detailed estimate."
+          },
+          {
+            "question": "What is included in a landscape design plan?",
+            "answer": "Our landscape design plans include detailed drawings, plant lists, material specifications, and construction instructions."
+          },
+          {
+            "question": "How long does the design process take?",
+            "answer": "The design process typically takes 2-4 weeks, depending on the complexity of the project."
+          }
+        ]
+      },
+      {
+        "slug": "lawn-care",
+        "name": "Lawn Care & Maintenance",
+        "shortDescription": "Keep your lawn healthy and vibrant with our comprehensive lawn care and maintenance services.",
+        "description": "Lakewood Landscaping provides year-round lawn care and maintenance services to keep your yard looking its best. Our services include mowing, edging, fertilization, weed control, aeration, and overseeding. We tailor our lawn care programs to the specific needs of your lawn, considering factors such as grass type, soil conditions, and local climate. We understand the challenges of maintaining a healthy lawn in Boise's climate, from the scorching summer heat to the occasional winter snow. Our team uses professional-grade equipment and environmentally friendly products to ensure optimal results. We offer both one-time services and ongoing maintenance packages to fit your needs and budget. Whether you need help with a specific lawn issue or want to hand over the responsibility of lawn care entirely, Lakewood Landscaping is here to help. We also provide seasonal services such as leaf removal in the fall and spring cleanup to prepare your lawn for the growing season. Let us take the hassle out of lawn care and give you a lawn you can be proud of.",
+        "process": [
+          "Lawn Assessment: Evaluate the health and condition of your lawn.",
+          "Customized Treatment Plan: Develop a tailored lawn care program based on your lawn's needs.",
+          "Regular Maintenance: Provide ongoing mowing, edging, fertilization, and weed control.",
+          "Seasonal Services: Offer leaf removal, spring cleanup, and winterization services."
+        ],
+        "benefits": [
+          "Healthy and vibrant lawn",
+          "Weed-free yard",
+          "Reduced maintenance efforts",
+          "Increased curb appeal"
+        ],
+        "faq": [
+          {
+            "question": "How often should I mow my lawn?",
+            "answer": "We recommend mowing your lawn once a week during the growing season to maintain a healthy height and appearance."
+          },
+          {
+            "question": "What is the best time to fertilize my lawn?",
+            "answer": "The best time to fertilize your lawn is in the spring and fall to promote healthy growth and root development."
+          },
+          {
+            "question": "How can I get rid of weeds in my lawn?",
+            "answer": "We offer targeted weed control services to eliminate weeds and prevent them from returning."
+          }
+        ]
+      },
+      {
+        "slug": "irrigation-systems",
+        "name": "Irrigation Systems",
+        "shortDescription": "Efficient and reliable irrigation solutions designed to conserve water and keep your landscape thriving.",
+        "description": "Lakewood Landscaping specializes in the design, installation, and maintenance of irrigation systems. We understand the importance of efficient water management, especially in Boise's arid climate. Our team will assess your landscape's watering needs and design a custom irrigation system that delivers water precisely where it's needed, minimizing waste and promoting healthy plant growth. We offer a variety of irrigation solutions, including sprinkler systems, drip irrigation, and smart controllers. Our systems are designed to be durable, reliable, and easy to use. We also provide ongoing maintenance and repair services to keep your irrigation system running smoothly. Whether you need a new irrigation system installed or your existing system needs repair, Lakewood Landscaping is here to help. We also offer winterization services to protect your irrigation system from freezing temperatures. With a properly installed and maintained irrigation system, you can conserve water, save money, and keep your landscape looking its best.",
+        "process": [
+          "System Design: Create a custom irrigation system based on your landscape's needs.",
+          "Installation: Install the irrigation system with minimal disruption to your property.",
+          "Maintenance: Provide ongoing maintenance and repair services.",
+          "Winterization: Protect your irrigation system from freezing temperatures."
+        ],
+        "benefits": [
+          "Efficient water usage",
+          "Healthy plant growth",
+          "Reduced water bills",
+          "Convenient and automated watering"
+        ],
+        "faq": [
+          {
+            "question": "How often should I water my lawn?",
+            "answer": "The frequency of watering depends on the type of grass and the weather conditions. We can help you determine the optimal watering schedule for your lawn."
+          },
+          {
+            "question": "What is the difference between sprinkler systems and drip irrigation?",
+            "answer": "Sprinkler systems spray water over a large area, while drip irrigation delivers water directly to the plant roots. Drip irrigation is more efficient and reduces water waste."
+          },
+          {
+            "question": "How do I winterize my irrigation system?",
+            "answer": "We offer professional winterization services to protect your irrigation system from freezing temperatures. This involves draining the system and insulating vulnerable components."
+          }
+        ]
+      },
+      {
+        "slug": "hardscaping",
+        "name": "Hardscaping",
+        "shortDescription": "Enhance your outdoor living space with our expert hardscaping services, including patios, walkways, and retaining walls.",
+        "description": "Lakewood Landscaping offers a wide range of hardscaping services to create functional and beautiful outdoor living spaces. Our services include patios, walkways, retaining walls, fire pits, and outdoor kitchens. We use high-quality materials and expert craftsmanship to ensure that your hardscaping project is built to last. Our team will work closely with you to design a custom hardscaping plan that complements your home and lifestyle. We consider factors such as your budget, style preferences, and the existing landscape features. Whether you're looking to create a cozy outdoor retreat or a spacious entertainment area, Lakewood Landscaping can bring your vision to life. We understand the importance of proper drainage and structural integrity, especially in Boise's climate. Our hardscaping projects are designed to withstand the elements and provide years of enjoyment. We also offer maintenance and repair services to keep your hardscaping looking its best.",
+        "process": [
+          "Design Consultation: Discuss your vision, budget, and style preferences.",
+          "Material Selection: Choose from a variety of high-quality materials.",
+          "Construction: Build your hardscaping project with expert craftsmanship.",
+          "Final Inspection: Ensure your complete satisfaction with the finished product."
+        ],
+        "benefits": [
+          "Increased property value",
+          "Enhanced outdoor living space",
+          "Functional and durable structures",
+          "Custom designs to match your style"
+        ],
+        "faq": [
+          {
+            "question": "What materials do you use for hardscaping?",
+            "answer": "We use a variety of materials, including pavers, natural stone, concrete, and wood."
+          },
+          {
+            "question": "How long does it take to build a patio?",
+            "answer": "The construction time depends on the size and complexity of the patio. We can provide you with an estimated timeline during the design consultation."
+          },
+          {
+            "question": "Do I need a permit for a hardscaping project?",
+            "answer": "Permit requirements vary depending on the scope of the project and local regulations. We can help you determine if a permit is required and assist with the application process."
+          }
+        ]
+      },
+      {
+        "slug": "spring-fall-cleanup",
+        "name": "Spring & Fall Cleanup",
+        "shortDescription": "Prepare your landscape for the changing seasons with our comprehensive spring and fall cleanup services.",
+        "description": "Lakewood Landscaping offers comprehensive spring and fall cleanup services to keep your landscape looking its best year-round. Our spring cleanup services include removing debris, pruning shrubs, edging flower beds, and applying mulch. We'll prepare your landscape for the growing season by removing winter damage and promoting healthy new growth. Our fall cleanup services include removing leaves, cutting back perennials, and preparing your irrigation system for winter. We'll protect your landscape from the harsh winter weather and ensure that it's ready to thrive in the spring. We understand the importance of seasonal cleanup in Boise's climate, where extreme temperatures and dry conditions can take a toll on your landscape. Our team uses professional-grade equipment and environmentally friendly products to ensure optimal results. We offer both one-time services and ongoing maintenance packages to fit your needs and budget. Let Lakewood Landscaping take the hassle out of seasonal cleanup and keep your landscape looking its best.",
+        "process": [
+          "Debris Removal: Remove leaves, branches, and other debris from your landscape.",
+          "Pruning: Prune shrubs and trees to promote healthy growth.",
+          "Mulching: Apply mulch to flower beds to retain moisture and suppress weeds.",
+          "Irrigation Winterization: Prepare your irrigation system for winter."
+        ],
+        "benefits": [
+          "Healthy and vibrant landscape",
+          "Reduced maintenance efforts",
+          "Protection from seasonal damage",
+          "Increased curb appeal"
+        ],
+        "faq": [
+          {
+            "question": "Why is spring cleanup important?",
+            "answer": "Spring cleanup removes winter damage and prepares your landscape for the growing season."
+          },
+          {
+            "question": "Why is fall cleanup important?",
+            "answer": "Fall cleanup protects your landscape from the harsh winter weather and prepares it for the spring."
+          },
+          {
+            "question": "How often should I schedule seasonal cleanup services?",
+            "answer": "We recommend scheduling seasonal cleanup services in the spring and fall to keep your landscape looking its best."
+          }
+        ]
+      },
+      {
+        "slug": "outdoor-lighting",
+        "name": "Outdoor Lighting",
+        "shortDescription": "Illuminate your outdoor space and enhance its beauty and security with our professional outdoor lighting solutions.",
+        "description": "Lakewood Landscaping offers expert outdoor lighting services to transform your outdoor space into a welcoming and secure environment. We specialize in designing and installing custom lighting systems that enhance the beauty of your landscape and provide added security. Our services include landscape lighting, pathway lighting, patio lighting, and security lighting. We use high-quality, energy-efficient LED fixtures that are designed to withstand the elements. Our team will work closely with you to create a lighting plan that complements your home and lifestyle. We consider factors such as your budget, style preferences, and the existing landscape features. Whether you're looking to create a warm and inviting atmosphere or deter potential intruders, Lakewood Landscaping can bring your vision to life. We understand the importance of proper wiring and installation, especially in Boise's climate. Our outdoor lighting projects are designed to be safe, reliable, and long-lasting. We also offer maintenance and repair services to keep your lighting system looking its best.",
+        "process": [
+          "Design Consultation: Discuss your vision, budget, and style preferences.",
+          "Fixture Selection: Choose from a variety of high-quality LED fixtures.",
+          "Installation: Install your outdoor lighting system with expert craftsmanship.",
+          "Final Adjustment: Ensure your complete satisfaction with the finished product."
+        ],
+        "benefits": [
+          "Enhanced beauty and ambiance",
+          "Increased security",
+          "Energy-efficient lighting",
+          "Custom designs to match your style"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of outdoor lighting?",
+            "answer": "Outdoor lighting enhances the beauty of your landscape, increases security, and creates a welcoming atmosphere."
+          },
+          {
+            "question": "What type of lighting fixtures do you use?",
+            "answer": "We use high-quality, energy-efficient LED fixtures that are designed to withstand the elements."
+          },
+          {
+            "question": "How much does outdoor lighting cost?",
+            "answer": "The cost of outdoor lighting varies depending on the scope of the project. We can provide you with a detailed estimate during the design consultation."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Boise",
+        "slug": "boise-id",
+        "state": "ID",
+        "content": "Lakewood Landscaping LLC is proud to offer our comprehensive landscaping services to the residents and businesses of Boise, Idaho. As the capital city and a vibrant hub in the Treasure Valley, Boise presents unique landscaping needs, from water-wise designs that thrive in our semi-arid climate to creating welcoming outdoor spaces for homes and businesses alike. Our team is dedicated to providing top-notch lawn care, landscape design, installation, and maintenance services tailored to the specific requirements of Boise properties.\n\nWhether you're looking to enhance your curb appeal with a stunning new landscape, maintain a healthy and lush lawn, or create an outdoor oasis for relaxation and entertainment, Lakewood Landscaping LLC has the expertise and experience to bring your vision to life. We understand the importance of using sustainable practices and selecting plants that are well-suited to the Boise environment. We are committed to providing exceptional customer service and ensuring your complete satisfaction. We treat every yard like it were our own.",
+        "localContext": "Boise's unique blend of urban and outdoor living inspires innovative landscaping solutions that reflect the city's character and values. From the foothills to the river, the landscape of Boise is beautiful and varied.",
+        "nearbyAreas": [
+          "Meridian",
+          "Eagle",
+          "Kuna"
+        ]
+      },
+      {
+        "city": "Meridian",
+        "slug": "meridian-id",
+        "state": "ID",
+        "content": "Lakewood Landscaping LLC extends its expert landscaping services to Meridian, Idaho, one of the fastest-growing cities in the state. Meridian's diverse neighborhoods and expanding business sector require a range of landscaping solutions, from creating appealing residential landscapes to maintaining attractive commercial properties. Our team is equipped to handle projects of any size, providing customized lawn care, landscape design, installation, and maintenance services that meet the unique needs of Meridian's diverse properties.\n\nAt Lakewood Landscaping LLC, we understand the importance of creating outdoor spaces that enhance the quality of life for Meridian residents and contribute to the city's overall aesthetic appeal. We are committed to providing exceptional service, using high-quality materials, and employing sustainable practices to ensure the long-term health and beauty of your landscape. Whether you're looking to create a welcoming front yard, a private backyard retreat, or a well-maintained commercial landscape, we have the expertise to bring your vision to life.",
+        "localContext": "Meridian's rapid growth and family-friendly atmosphere drive a demand for functional and beautiful outdoor spaces that enhance the community's appeal. New construction and established neighborhoods alike benefit from professional landscaping services.",
+        "nearbyAreas": [
+          "Boise",
+          "Kuna",
+          "Nampa"
+        ]
+      },
+      {
+        "city": "Eagle",
+        "slug": "eagle-id",
+        "state": "ID",
+        "content": "Lakewood Landscaping LLC serves the community of Eagle, Idaho, with a full range of landscaping services tailored to the unique needs of this charming city. Known for its beautiful homes and well-maintained properties, Eagle demands a high level of landscaping expertise. Our team is dedicated to providing top-quality lawn care, landscape design, installation, and maintenance services that enhance the beauty and value of Eagle's properties.\n\nWe understand the importance of creating outdoor spaces that reflect the refined taste of Eagle residents and contribute to the city's overall appeal. At Lakewood Landscaping LLC, we are committed to using sustainable practices, selecting plants that thrive in the local climate, and providing exceptional customer service. Whether you're looking to create a stunning front yard, a relaxing backyard oasis, or a professionally maintained commercial landscape, we have the skills and experience to exceed your expectations.",
+        "localContext": "Eagle's upscale residential areas and commitment to preserving its natural beauty create a demand for sophisticated and sustainable landscaping solutions. The community values well-maintained properties and attractive outdoor spaces.",
+        "nearbyAreas": [
+          "Star",
+          "Boise",
+          "Meridian"
+        ]
+      },
+      {
+        "city": "Nampa",
+        "slug": "nampa-id",
+        "state": "ID",
+        "content": "Lakewood Landscaping LLC is pleased to offer comprehensive landscaping services to the residents and businesses of Nampa, Idaho. As one of the largest cities in the Treasure Valley, Nampa presents a diverse range of landscaping needs, from maintaining established residential lawns to creating attractive commercial landscapes. Our team is equipped to handle projects of any size, providing customized lawn care, landscape design, installation, and maintenance services that meet the specific requirements of Nampa properties.\n\nAt Lakewood Landscaping LLC, we understand the importance of creating outdoor spaces that enhance the quality of life for Nampa residents and contribute to the city's overall economic vitality. We are committed to providing exceptional service, using high-quality materials, and employing sustainable practices to ensure the long-term health and beauty of your landscape. Whether you're looking to create a welcoming front yard, a functional backyard space, or a well-maintained commercial landscape, we have the expertise to bring your vision to life.",
+        "localContext": "Nampa's growing population and diverse economy create a demand for affordable and reliable landscaping services that enhance property values and improve community aesthetics. From new developments to established neighborhoods, landscaping plays a vital role.",
+        "nearbyAreas": [
+          "Caldwell",
+          "Meridian",
+          "Kuna"
+        ]
+      },
+      {
+        "city": "Kuna",
+        "slug": "kuna-id",
+        "state": "ID",
+        "content": "Lakewood Landscaping LLC extends its services to Kuna, Idaho, offering a wide range of landscaping solutions to meet the needs of this growing community. Kuna's rapid development and increasing number of homes create a demand for reliable and affordable landscaping services. Our team is dedicated to providing top-quality lawn care, landscape design, installation, and maintenance services that enhance the beauty and value of Kuna properties.\n\nWe understand the importance of creating outdoor spaces that reflect the lifestyle of Kuna residents and contribute to the city's overall appeal. At Lakewood Landscaping LLC, we are committed to using sustainable practices, selecting plants that thrive in the local climate, and providing exceptional customer service. Whether you're looking to create a low-maintenance landscape, a family-friendly backyard, or a professionally maintained commercial property, we have the skills and experience to exceed your expectations.",
+        "localContext": "Kuna's rapid growth and family-oriented community drive a need for practical and attractive landscaping solutions that enhance property values and create welcoming outdoor spaces. New homes and expanding businesses benefit from our services.",
+        "nearbyAreas": [
+          "Meridian",
+          "Nampa",
+          "Boise"
+        ]
+      },
+      {
+        "city": "Star",
+        "slug": "star-id",
+        "state": "ID",
+        "content": "Lakewood Landscaping LLC is proud to serve the community of Star, Idaho, offering a full suite of landscaping services tailored to the unique needs of this charming town. Known for its rural character and growing residential areas, Star requires a landscaping approach that balances aesthetics with functionality. Our team provides expert lawn care, landscape design, installation, and maintenance to enhance the beauty and value of properties in Star.\n\nWe understand that Star residents value a connection with nature and appreciate outdoor spaces that blend seamlessly with the surrounding environment. Lakewood Landscaping LLC is committed to using sustainable practices, selecting native and drought-tolerant plants, and providing exceptional customer service. Whether you're looking to create a peaceful backyard retreat, a welcoming front yard, or a professionally maintained acreage, we have the skills and experience to bring your vision to life.",
+        "localContext": "Star's blend of rural charm and residential growth creates a demand for landscaping that respects the natural environment while enhancing property values. Residents appreciate sustainable and low-maintenance solutions.",
+        "nearbyAreas": [
+          "Eagle",
+          "Middleton",
+          "Emmett"
+        ]
+      },
+      {
+        "city": "Caldwell",
+        "slug": "caldwell-id",
+        "state": "ID",
+        "content": "Lakewood Landscaping LLC provides landscaping services in Caldwell, Idaho. Caldwell is a city with a mix of residential, commercial, and agricultural properties. Our team is equipped to handle projects of any size, providing customized lawn care, landscape design, installation, and maintenance services that meet the specific requirements of Caldwell properties.\n\nAt Lakewood Landscaping LLC, we understand the importance of creating outdoor spaces that enhance the quality of life for Caldwell residents and contribute to the city's overall beauty. We are committed to providing exceptional service, using high-quality materials, and employing sustainable practices to ensure the long-term health and beauty of your landscape.",
+        "localContext": "Caldwell's diverse economy and growing population create a need for reliable and affordable landscaping services that enhance property values and improve community aesthetics.",
+        "nearbyAreas": [
+          "Nampa",
+          "Middleton",
+          "Parma"
+        ]
+      },
+      {
+        "city": "Middleton",
+        "slug": "middleton-id",
+        "state": "ID",
+        "content": "Lakewood Landscaping LLC is pleased to offer its landscaping services to the residents and businesses of Middleton, Idaho. Middleton's growing community and mix of residential and agricultural properties create a unique set of landscaping needs. Our team is dedicated to providing top-quality lawn care, landscape design, installation, and maintenance services that enhance the beauty and value of Middleton properties.\n\nWe understand the importance of creating outdoor spaces that reflect the lifestyle of Middleton residents and contribute to the city's overall charm. At Lakewood Landscaping LLC, we are committed to using sustainable practices, selecting plants that thrive in the local climate, and providing exceptional customer service.",
+        "localContext": "Middleton's small-town charm and growing population create a demand for landscaping that respects the natural environment while enhancing property values.",
+        "nearbyAreas": [
+          "Star",
+          "Caldwell",
+          "Emmett"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Landscape Design",
+        "text": "Lakewood Landscaping transformed our backyard into an oasis! Their design team listened to our ideas and created a plan that exceeded our expectations. The crew was professional and efficient, and the finished product is stunning. We highly recommend them!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "John B.",
+        "rating": 4,
+        "service": "Lawn Care & Maintenance",
+        "text": "We've been using Lakewood Landscaping for lawn care for the past year, and our lawn has never looked better. They're reliable, professional, and always do a great job. The weed control is especially effective.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Emily K.",
+        "rating": 5,
+        "service": "Irrigation System Repair",
+        "text": "Our sprinkler system broke down in the middle of summer, and Lakewood Landscaping came to the rescue. They quickly diagnosed the problem and repaired it at a fair price. We were impressed with their prompt and efficient service.",
+        "date": "2024-08-01"
+      },
+      {
+        "name": "David L.",
+        "rating": 5,
+        "service": "Hardscaping (Patio Installation)",
+        "text": "Lakewood Landscaping built a beautiful patio for us. The quality of the workmanship is outstanding, and the crew was a pleasure to work with. We're thrilled with our new outdoor living space.",
+        "date": "2025-05-10"
+      },
+      {
+        "name": "Jessica P.",
+        "rating": 4,
+        "service": "Spring Cleanup",
+        "text": "Lakewood Landscaping did a fantastic job with our spring cleanup. They removed all the debris and prepared our landscape for the growing season. It was so nice to have everything taken care of.",
+        "date": "2025-04-01"
+      },
+      {
+        "name": "Tom S.",
+        "rating": 5,
+        "service": "Outdoor Lighting",
+        "text": "The outdoor lighting Lakewood Landscaping installed has dramatically improved our property's curb appeal and security. The team helped us choose the perfect fixtures, and the installation was seamless. Highly recommend!",
+        "date": "2024-12-18"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Lakewood Landscaping | Boise, ID",
+        "description": "Top-rated landscaping services in Boise. Design, lawn care, irrigation, hardscaping & more. Free consultations. Call +12088703182."
+      },
+      "about": {
+        "title": "About Lakewood Landscaping - Boise, ID",
+        "description": "Learn about Lakewood Landscaping's mission, values, and commitment to serving the Boise community with quality landscaping services."
+      },
+      "services": {
+        "title": "Landscaping Services | Boise, ID",
+        "description": "Explore Lakewood Landscaping's comprehensive landscaping services: design, lawn care, irrigation, hardscaping, lighting & more."
+      },
+      "contact": {
+        "title": "Contact Lakewood Landscaping | Boise, ID",
+        "description": "Contact Lakewood Landscaping for a free consultation and estimate for your landscaping project in Boise, ID. Call +12088703182."
+      },
+      "reviews": {
+        "title": "Lakewood Landscaping Reviews | Boise, ID",
+        "description": "Read reviews from satisfied Lakewood Landscaping customers in Boise, ID. See why we're the trusted choice for landscaping services."
+      },
+      "service-areas": {
+        "title": "Lakewood Landscaping Service Areas",
+        "description": "Lakewood Landscaping provides landscaping services in Boise and surrounding areas. Check our service area map for details."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "landscape-design": "/images/service-landscape-design.webp",
+      "lawn-care": "/images/service-lawn-care.webp",
+      "irrigation-systems": "/images/service-irrigation-systems.webp",
+      "hardscaping": "/images/service-hardscaping.webp",
+      "spring-fall-cleanup": "/images/service-spring-fall-cleanup.webp",
+      "outdoor-lighting": "/images/service-outdoor-lighting.webp"
+    },
+    "servicesResponsive": {
+      "landscape-design": {
+        "src": "/images/service-landscape-design.webp",
+        "srcset": "/images/service-landscape-design-400w.webp 400w, /images/service-landscape-design-800w.webp 800w, /images/service-landscape-design-1200w.webp 1200w, /images/service-landscape-design.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "lawn-care": {
+        "src": "/images/service-lawn-care.webp",
+        "srcset": "/images/service-lawn-care-400w.webp 400w, /images/service-lawn-care-800w.webp 800w, /images/service-lawn-care-1200w.webp 1200w, /images/service-lawn-care.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "irrigation-systems": {
+        "src": "/images/service-irrigation-systems.webp",
+        "srcset": "/images/service-irrigation-systems-400w.webp 400w, /images/service-irrigation-systems-800w.webp 800w, /images/service-irrigation-systems-1200w.webp 1200w, /images/service-irrigation-systems.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "hardscaping": {
+        "src": "/images/service-hardscaping.webp",
+        "srcset": "/images/service-hardscaping-400w.webp 400w, /images/service-hardscaping-800w.webp 800w, /images/service-hardscaping-1200w.webp 1200w, /images/service-hardscaping.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "spring-fall-cleanup": {
+        "src": "/images/service-spring-fall-cleanup.webp",
+        "srcset": "/images/service-spring-fall-cleanup-400w.webp 400w, /images/service-spring-fall-cleanup-800w.webp 800w, /images/service-spring-fall-cleanup-1200w.webp 1200w, /images/service-spring-fall-cleanup.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "outdoor-lighting": {
+        "src": "/images/service-outdoor-lighting.webp",
+        "srcset": "/images/service-outdoor-lighting-400w.webp 400w, /images/service-outdoor-lighting-800w.webp 800w, /images/service-outdoor-lighting-1200w.webp 1200w, /images/service-outdoor-lighting.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
